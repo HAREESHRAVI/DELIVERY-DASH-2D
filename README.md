@@ -45,7 +45,7 @@ To clone this repository and import the project using Git and Unity Hub, follow 
 3. Execute the following command to clone the repository:
 
     ```bash
-    git clone https:https://github.com/HAREESHRAVI/DELIVERY-DASH-2D
+    git clone https://github.com/HAREESHRAVI/DELIVERY-DASH-2D
     ```
 
 4. Open Unity Hub and navigate to the "Projects" tab.
